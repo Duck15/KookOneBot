@@ -1,4 +1,4 @@
-# KookOnebot
+# KookOnebot.
 
 为kook实现[onebot11](https://github.com/botuniverse/onebot-11)协议！
 
